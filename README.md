@@ -8,7 +8,7 @@ ___
 
 **Usage:** `go run main.go subject [test_latency] [num_messages] [message_size]`
 
-**subject:** inproc, zeromq, nanomsg, kestrel, kafka, rabbitmq, nsq, redis, activemq, nats, beanstalkd, iris
+**subject:** inproc, zeromq, nanomsg, kafka, rabbitmq, nsq, redis, activemq, nats, beanstalkd, iris
 
 **test_latency:** `true` will test latency, `false` will test throughput
 
