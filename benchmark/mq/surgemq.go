@@ -6,7 +6,7 @@ import (
 	"github.com/surge/surgemq/service"
 	"github.com/surge/surgemq/sessions"
 	"github.com/surge/surgemq/topics"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
+	"github.com/davidgev/mq-benchmarking/benchmark"
 )
 
 type SurgeMQ struct {

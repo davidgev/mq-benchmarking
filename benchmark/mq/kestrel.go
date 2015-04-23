@@ -2,7 +2,7 @@ package mq
 
 import (
 	"github.com/alindeman/go-kestrel"
-	"github.com/tylertreat/mq-benchmarking/benchmark"
+	"github.com/davidgev/mq-benchmarking/benchmark"
 )
 
 type Kestrel struct {
